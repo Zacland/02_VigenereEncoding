@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_VigenereEncoding
+namespace _02_VigenereEncoding
 {
     class Program
     {
